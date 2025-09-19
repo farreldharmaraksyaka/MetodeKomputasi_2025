@@ -1,4 +1,3 @@
 # MetodeKomputasi_2025
-** bismillah **
-<aaaaaaaaaa>
-## yayyy ##
+halo ini buat latihan git git an humzzz
+aku cobain yah
